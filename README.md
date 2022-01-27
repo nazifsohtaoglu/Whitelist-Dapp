@@ -1,2 +1,0 @@
-# Whitelist-Dapp
-Whitelist Dapp
